@@ -1,0 +1,367 @@
+Gene ID	EC#	dbCAN_hmm	dbCAN_sub	DIAMOND	#ofTools	Recommend Results	Substrate
+contig_1_100	-	GH29(17-368)	GH29_e142(26-368)	GH29	3	GH29_e142	host glycan
+contig_1_1008	-	-	CBM48_e201(15-75)	-	1	-	alpha-glucan
+contig_1_101	-	-	-	GH29	1	-	-
+contig_1_1011	-	-	-	GT2	1	-	-
+contig_1_1038	-	-	-	GH5_11	1	-	-
+contig_1_104	-	PL33_2(428-570)	PL33_e15(428-570)	PL33_2	3	PL33_2	-
+contig_1_1051	-	GT2(43-209)	GT2(43-305)	GT2	3	GT2	-
+contig_1_1055	-	GH171(57-399)	GH171_e27(57-399)	GH171	3	GH171_e27	peptidoglycan
+contig_1_106	-	PL43(39-465)	PL43_e3(38-465)	PL43	3	PL43_e3	fucoidan
+contig_1_107	-	CE20(102-411)	CE20_e30(102-411)	CE20	3	CE20_e30	xyloglucan
+contig_1_108	-	GH39(34-499)	GH39_e6(35-497)	GH39	3	GH39_e6	-
+contig_1_110	-	-	-	CBM35+CBM47	1	-	-
+contig_1_111	-	-	-	GH29	1	-	-
+contig_1_1119	3.2.1.63:2;3.2.1.-:3	GH95(24-794)	GH95_e1(21-795)	GH95	3	GH95_e1	alpha-galactan;beta-fucosides
+contig_1_112	-	PL40(4-896)	PL40_e1(5-899)	PL40	3	PL40_e1	-
+contig_1_1136	-|-	GH117(212-377)	GH117_e20(59-152)+GH117_e28(217-377)	GH117	3	GH117_e20|GH117_e28	agarose
+contig_1_114	3.2.1.63:2;3.2.1.-:3	GH95(21-771)	GH95_e1(21-772)	GH95	3	GH95_e1	alpha-galactan;beta-fucosides
+contig_1_1158	-	CE14(8-113)	CE14_e87(8-113)	CE14	3	CE14_e87	-
+contig_1_116	-|-	GH141(29-554)+CBM32(816-936)	GH141_e24(29-553)+CBM32_e55(818-936)	CBM32	3	GH141_e24|CBM32_e55	host glycan
+contig_1_117	-	GH29(43-364)	GH29_e26(49-364)	GH29	3	GH29_e26	host glycan
+contig_1_119	-	GH29(11-399)	GH29_e21(16-399)	GH29	3	GH29_e21	host glycan
+contig_1_1196	-|-	-	AA2_e20(94-208)+AA2_e20(479-752)	AA0	2	AA2_e20|AA2_e20	lignin
+contig_1_1198	-	-	-	GH71	1	-	-
+contig_1_1213	3.2.1.63:2;3.2.1.-:3	GH95(29-788)	GH95_e1(30-790)	GH95	3	GH95_e1	alpha-galactan;beta-fucosides
+contig_1_1215	-|-	GH2_1(32-612)	GH2_e158(32-612)+CBM35_e85(898-1018)	CBM35+GH2_1	3	GH2_1|CBM35_e85	xylan
+contig_1_1216	-	GH2_10(71-924)	GH2_e230(69-925)	GH2_10	3	GH2_10	-
+contig_1_1219	-	-	-	CBM32	1	-	-
+contig_1_1221	-	GH29(38-366)	GH29_e73(40-363)	GH29	3	GH29_e73	host glycan
+contig_1_1224	-	GH128(399-607)	GH128_e30(398-595)	GH128	3	GH128_e30	beta-glucan
+contig_1_123	-|-	GH172(276-518)	GH172_e5(96-186)+GH172_e5(276-518)	GH172	3	GH172_e5|GH172_e5	-
+contig_1_124	-	GH31_4(346-776)	GH31_e187(346-776)	GH31_4	3	GH31_4	-
+contig_1_1248	-	-	-	CBM47	1	-	-
+contig_1_1251	-	-	GH140_e15(135-539)	-	1	-	pectin
+contig_1_1252	3.2.1.37:92;3.2.1.55:39	GH3(77-318)	GH3_e0(75-318)	GH3	3	GH3_e0	arabinan;xylan
+contig_1_1253	3.2.1.23:3	GH2_1(30-620)	GH2_e16(32-620)	GH2_1	3	GH2_1	beta-galactan
+contig_1_1254	-	-	-	GH29	1	-	-
+contig_1_126	-	PL43(24-444)	PL43_e10(24-443)	PL43	3	PL43_e10	fucoidan
+contig_1_1265	3.2.1.23:2	GH2_1(30-616)	GH2_e137(28-616)	GH2_1	3	GH2_1	beta-galactan
+contig_1_1266	-	CE1(29-260)	-	-	1	-	-
+contig_1_1267	3.2.1.81:9	GH16_16(46-373)	GH16_e284(46-373)	CBM6+GH16_16	3	GH16_16	agarose
+contig_1_1268	-	-	-	GH16_11	1	-	-
+contig_1_1269	3.2.1.81:11	GH16_16(73-312)	GH16_e48(73-312)	GH16_16	3	GH16_16	agarose
+contig_1_127	-	PL43(23-452)	PL43_e3(23-452)	PL43	3	PL43_e3	fucoidan
+contig_1_1270	3.2.1.159:6|3.2.1.159:6	GH117(101-230)+GH117(225-309)	GH117_e15(101-229)+GH117_e15(225-313)	GH117	3	GH117_e15|GH117_e15	agarose
+contig_1_1273	-	-	-	GH117	1	-	-
+contig_1_1275	-	-	-	GH16_3	1	-	-
+contig_1_1278	3.2.1.23:3	GH2_1(28-615)	GH2_e16(30-615)	GH2_1	3	GH2_1	beta-galactan
+contig_1_128	-|3.2.1.4:3;3.2.1.78:13;3.2.1.151:5	GH43_2(18-295)+CBM35(324-442)	GH43_e142(18-295)+CBM35_e4(326-442)	GH43	3	GH43_2|CBM35_e4	beta-galactan;beta-mannan;xylan
+contig_1_1280	3.2.1.81:4	GH16_15(79-330)	GH16_e249(79-330)	GH16_15	3	GH16_15	agarose
+contig_1_1285	-	GH20(138-475)	GH20_e176(138-474)	GH20	3	GH20_e176	-
+contig_1_1286	3.2.1.63:3	GH95(50-791)	GH95_e26(35-790)	GH95	3	GH95_e26	beta-fucosides
+contig_1_1287	-	GH2_20(21-706)	GH2_e125(23-705)	GH2_20	3	GH2_20	-
+contig_1_129	-	GH39(31-499)	GH39_e6(31-497)	GH39	3	GH39_e6	-
+contig_1_1290	-|-|-	PL8_3(337-583)+CBM96(717-842)+CBM96(892-1025)	PL8_e74(337-582)+CBM96_e47(719-842)+CBM96_e9(893-1018)	CBM96+PL8_3	3	PL8_3|CBM96_e47|CBM96_e9	alginate
+contig_1_1291	3.2.1.63:2;3.2.1.-:3	GH95(26-771)	GH95_e1(27-772)	GH95	3	GH95_e1	alpha-galactan;beta-fucosides
+contig_1_130	-	PL43(34-474)	PL43_e6(34-474)	PL43	3	PL43_e6	fucoidan
+contig_1_1309	-	PL8_3(337-583)	PL8_e74(337-582)	CBM96+PL8_3	3	PL8_3	-
+contig_1_1313	-	GH65(307-645)	GH65_e10(307-645)	GH65	3	GH65_e10	-
+contig_1_1314	2.4.1.161:3;2.4.1.-:2;3.2.1.1:3;3.2.1.10:26;3.2.1.20:21;3.2.1.70:2;3.2.1.-:8;5.4.99.11:31	GH13_31(63-405)	GH13_e486(61-405)	GH13_31	3	GH13_31	alpha-glucan;sucrose
+contig_1_1327	-	GT83(13-368)	GT83_e5(12-369)	GT83	3	GT83_e5	-
+contig_1_1328	-	GT2(12-142)	GT2(12-176)	GT2	3	GT2	-
+contig_1_133	-	PL43(27-467)	PL43_e6(27-467)	PL43	3	PL43_e6	fucoidan
+contig_1_1330	-	-	GT2(6-90)	-	1	-	-
+contig_1_134	-	PL43(36-483)	PL43_e8(36-483)	PL43	3	PL43_e8	fucoidan
+contig_1_135	-	-	-	GH154	1	-	-
+contig_1_136	-|-|-	CBM6(486-633)+CBM96(732-849)+CBM96(978-1094)	CBM6_e73(486-629)+CBM96_e29(733-848)+CBM96_e29(980-1095)	CBM6+CBM96	3	CBM6_e73|CBM96_e29|CBM96_e29	alginate;beta-glucan
+contig_1_137	-	-	-	GH29	1	-	-
+contig_1_1377	-	GH2_17(31-730)	GH2_e223(31-727)	GH2_17	3	GH2_17	-
+contig_1_1378	-	GH3(107-328)	GH3_e252(107-328)	GH3	3	GH3_e252	-
+contig_1_1379	-	GH16_3(48-276)	GH16_e318(48-276)	GH16_3	3	GH16_3	-
+contig_1_138	3.2.1.21:2	GH3(138-360)	GH3_e98(138-360)	GH3	3	GH3_e98	beta-glucan
+contig_1_1393	-	-	-	GH13_11	1	-	-
+contig_1_1419	-	-	-	GT1	1	-	-
+contig_1_1498	-	-	-	GT1	1	-	-
+contig_1_152	-	-	-	GH28	1	-	-
+contig_1_1523	3.2.1.51:2	GH29(30-383)	GH29_e8(47-382)	GH29	3	GH29_e8	host glycan
+contig_1_1524	3.2.1.-:3	GH88(73-393)	GH88_e11(74-393)	GH88	3	GH88_e11	host glycan
+contig_1_1525	-	GH154(40-396)	GH154_e16(40-394)	GH154	3	GH154_e16	arabinogalactan
+contig_1_153	-	-	-	GH131	1	-	-
+contig_1_154	-	-	-	CBM50	1	-	-
+contig_1_1547	-	PL7(60-299)	PL7_e35(60-299)	PL7	3	PL7_e35	-
+contig_1_1551	-	GT51(58-237)	GT51_e294(58-237)	GT51	3	GT51_e294	-
+contig_1_1562	-	-	-	GH13_30	1	-	-
+contig_1_1585	-	-	-	GH36	1	-	-
+contig_1_1594	-	-	-	GT47	1	-	-
+contig_1_1602	-	-	CE3_e24(25-208)	-	1	-	-
+contig_1_1603	-	GH117(107-201)+GH117(192-347)	GH117_e1(123-348)	GH117	3	GH117_e1	agarose
+contig_1_1606	-	GT2(3-145)	GT2(3-272)	GT2	3	GT2	-
+contig_1_1611	-	GH20(156-448)	GH20_e234(157-449)	GH20	3	GH20_e234	-
+contig_1_1614	-	-	-	GT2	1	-	-
+contig_1_1616	-	-	GT4_e7227(219-338)	GT0	2	GT4_e7227	-
+contig_1_1631	-	-	-	GT33	1	-	-
+contig_1_1633	-	PL43(39-466)	PL43_e5(39-467)	PL43	3	PL43_e5	fucoidan
+contig_1_1634	-	PL43(28-466)	PL43_e2(28-457)	PL43	3	PL43_e2	fucoidan
+contig_1_1638	-	PL43(37-480)	PL43_e2(39-469)	PL43	3	PL43_e2	fucoidan
+contig_1_1639	-	GH88(72-393)	GH88_e24(74-393)	GH88	3	GH88_e24	host glycan
+contig_1_1651	-	-	-	GH1	1	-	-
+contig_1_167	-	GT2(13-180)	GT2(13-179)	GT2	3	GT2	-
+contig_1_1719	-	CE1(367-574)	-	-	1	-	-
+contig_1_1737	-	PL8_3(327-557)	PL8_e5(327-557)	PL8	3	PL8_3	-
+contig_1_1742	3.2.1.178:2	GH16_11(77-345)	GH16_e61(77-345)	GH16_11	3	GH16_11	porphyran
+contig_1_1747	-	GH88(82-405)	GH88_e24(83-405)	GH88	3	GH88_e24	host glycan
+contig_1_1772	-	-	-	CE0	1	-	-
+contig_1_1776	-	GH29(23-345)	GH29_e26(23-345)	GH29	3	GH29_e26	host glycan
+contig_1_1777	-	GH29(19-317)	GH29_e15(22-317)	GH29	3	GH29_e15	host glycan
+contig_1_1778	-	GH29(20-317)	GH29_e15(22-317)	GH29	3	GH29_e15	host glycan
+contig_1_1779	-	GH92(244-770)	GH92_e24(239-771)	GH92	3	GH92_e24	host glycan
+contig_1_1783	-	GH177(44-411)	GH177_e7(44-404)	-	2	GH177_e7	host glycan
+contig_1_1784	-	GH78(34-569)	GH78_e82(37-570)	GH78	3	GH78_e82	-
+contig_1_1785	-|-	-	AA2_e20(70-181)+AA2_e20(466-717)	AA0	2	AA2_e20|AA2_e20	lignin
+contig_1_1881	-	-	-	GT119	1	-	-
+contig_1_1882	-	GT119(19-204)+GT119(211-408)	GT119_e135(20-419)	GT119	3	GT119_e135	peptidoglycan
+contig_1_1911	-	-	-	CBM50	1	-	-
+contig_1_1989	-	GT2(4-135)	GT2(4-166)	GT2	3	GT2	-
+contig_1_1990	-	-	-	GT2	1	-	-
+contig_1_1994	3.2.1.-:2	GH92(249-735)	GH92_e46(249-735)	GH92	3	GH92_e46	host glycan
+contig_1_1995	3.2.1.52:18	GH20(155-508)	GH20_e12(154-508)	GH20	3	GH20_e12	host glycan
+contig_1_1997	-	GH141(13-523)	GH141_e42(14-522)	GH141	3	GH141_e42	-
+contig_1_1998	-	GH92(295-772)	GH92_e52(295-772)	GH92	3	GH92_e52	host glycan
+contig_1_1999	-	-	-	GH29	1	-	-
+contig_1_2000	-	GH20(150-510)	GH20_e135(150-510)	GH20	3	GH20_e135	-
+contig_1_2002	-	GH30_2(50-470)	GH30_e82(51-470)	GH30_2	3	GH30_2	-
+contig_1_2003	-	GH3(122-341)	GH3_e149(122-341)	GH3	3	GH3_e149	-
+contig_1_2004	-	-	-	CBM35+CBM47	1	-	-
+contig_1_2005	-	-	-	GH154	1	-	-
+contig_1_2006	3.2.1.63:3	GH95(25-749)	GH95_e26(26-750)	GH95	3	GH95_e26	beta-fucosides
+contig_1_2007	-	-	-	CE19	1	-	-
+contig_1_2008	-	-	-	GH3	1	-	-
+contig_1_2009	-	GH29(26-408)	GH29_e21(24-407)	GH29	3	GH29_e21	host glycan
+contig_1_2011	-	GH139(9-754)	GH139_e2(21-753)	GH139	3	GH139_e2	pectin
+contig_1_2012	-	-	-	GH3	1	-	-
+contig_1_2013	-	GH92(258-745)	GH92_e64(258-740)	GH92	3	GH92_e64	host glycan
+contig_1_2016	-	CBM9(43-223)	-	CBM0	2	CBM9	-
+contig_1_2017	2.4.1.319:4;2.4.1.320:2	GH130_2(19-319)	GH130_e13(19-319)	GH130_2	3	GH130_2	beta-mannan
+contig_1_2019	3.2.1.-:2	GH92(251-740)	GH92_e46(252-740)	GH92	3	GH92_e46	host glycan
+contig_1_2024	3.2.1.52:18	GH20(161-519)	GH20_e12(159-519)	GH20	3	GH20_e12	host glycan
+contig_1_2025	3.2.1.52:18	GH20(155-509)	GH20_e12(153-509)	GH20	3	GH20_e12	host glycan
+contig_1_2029	-	-	-	GT2	1	-	-
+contig_1_2043	-	-	-	GH0	1	-	-
+contig_1_2052	-	-	-	GT4	1	-	-
+contig_1_2058	-	-	-	GH28	1	-	-
+contig_1_2059	-	GT5(2-468)	GT5_e50(2-468)	GT5	3	GT5_e50	-
+contig_1_2061	2.4.1.18:51|2.4.1.18:14	CBM48(29-115)+GH13_9(185-485)	CBM48_e2(28-124)+GH13_e200(185-485)	CBM48+GH13_9	3	CBM48_e2|GH13_9	alpha-glucan
+contig_1_2062	-	GH31_1(231-674)	GH31_e47(231-674)	GH31_1	3	GH31_1	-
+contig_1_2063	-	PL7_5(49-339)	PL7_e37(51-339)	PL7_5	3	PL7_5	-
+contig_1_2094	-	-	-	CBM48+GH13_8+GH13_8	1	-	-
+contig_1_2126	-|-	-	GH36_e87(200-479)+GH36_e54(451-588)	GH36	2	GH36_e87|GH36_e54	-
+contig_1_2143	-	-	-	GT4	1	-	-
+contig_1_2149	-	CE1(480-702)	-	-	1	-	-
+contig_1_2181	-	-	-	GH13_22+GH13_22+GT5	1	-	-
+contig_1_2193	-	-	CBM50_e912(167-208)	-	1	-	chitin
+contig_1_2194	-	GT9(73-301)	GT9_e87(73-297)	GT9	3	GT9_e87	-
+contig_1_2206	-	-	CBM50_e261(75-123)	-	1	-	chitin
+contig_1_223	-	-	-	GH76	1	-	-
+contig_1_2236	-	GT4(189-335)	GT4_e8349(189-334)	-	2	GT4_e8349	-
+contig_1_2237	-	-	-	GT0	1	-	-
+contig_1_2250	-	-	-	GH13_48	1	-	-
+contig_1_2275	-	-	-	GT0	1	-	-
+contig_1_2276	-	GT4(181-312)	GT4_e3277(184-329)	-	2	GT4_e3277	-
+contig_1_2277	-	GT2(4-131)	GT2(4-164)	-	2	GT2	-
+contig_1_228	-	-	-	GH65	1	-	-
+contig_1_2287	-	-	-	GT2	1	-	-
+contig_1_2292	1.1.3.10:2	AA3(1-561)	AA3_e187(248-557)	-	2	AA3_e187	lignin
+contig_1_2294	-	-	-	CBM32	1	-	-
+contig_1_2348	2.4.1.352:2	GH13_18(87-428)	GH13_e137(87-428)	GH13_18	3	GH13_18	glucosylglycerate
+contig_1_2349	2.4.1.266:2	GT81(120-320)	GT81_e4(114-320)	GT81	3	GT81_e4	-
+contig_1_2356	-	-	-	CE8	1	-	-
+contig_1_2361	-	-	-	GT119	1	-	-
+contig_1_2375	3.2.1.52:2	GH20(153-474)	GH20_e80(153-474)	GH20	3	GH20_e80	host glycan
+contig_1_2391	-	GH113(31-330)	GH113_e22(31-330)	GH113	3	GH113_e22	beta-mannan
+contig_1_2398	-	-	-	GT22	1	-	-
+contig_1_2401	-	-	-	GH35	1	-	-
+contig_1_2465	-	-	-	GH16_3	1	-	-
+contig_1_2487	-	GH95(100-749)	GH95_e55(52-747)	GH95	3	GH95_e55	-
+contig_1_2550	-	-	-	GT57	1	-	-
+contig_1_2563	-	GT30(45-207)	GT30_e91(46-207)	GT30	3	GT30_e91	-
+contig_1_2583	-	GT51(66-242)	GT51_e218(66-242)	GT51	3	GT51_e218	-
+contig_1_2586	-|-	GH23(152-287)	GH23_e1137(152-288)+CBM50_e623(401-442)	CBM50+GH23	3	GH23_e1137|CBM50_e623	chitin
+contig_1_2621	-	-	-	CBM50	1	-	-
+contig_1_2627	-	PL12_1(417-556)	PL12_e32(417-556)	PL12_1	3	PL12_1	host glycan
+contig_1_2629	-|-|-|-	GH136(24-527)+CBM96(635-761)+CBM96(801-928)+CBM96(971-1100)	GH136_e83(24-525)+CBM96_e8(635-761)+CBM96_e9(801-923)+CBM96_e7(972-1094)	-	2	GH136_e83|CBM96_e8|CBM96_e9|CBM96_e7	alginate;human milk polysaccharide
+contig_1_2632	3.2.1.-:3	GH88(80-405)	GH88_e11(84-404)	GH88	3	GH88_e11	host glycan
+contig_1_2672	-	-	-	GH3	1	-	-
+contig_1_2674	-	-	-	GH1	1	-	-
+contig_1_2677	-	-	-	GH47	1	-	-
+contig_1_2692	-	GT5(5-229)	GT5_e48(5-228)	GT5	3	GT5_e48	-
+contig_1_2694	-	-	-	GH13	1	-	-
+contig_1_271	-	GT19(4-353)	GT19_e2(4-352)	GT19	3	GT19_e2	-
+contig_1_2722	-	-	-	GT1	1	-	-
+contig_1_2737	-	GT119(23-377)	GT119_e52(23-377)	GT119	3	GT119_e52	peptidoglycan
+contig_1_2738	-	GT28(194-350)	GT28_e0(194-350)	GT28	3	GT28_e0	-
+contig_1_2739	-	-	-	GT28	1	-	-
+contig_1_2751	-|-	GH73(78-207)	GH73_e387(78-207)+CBM50_e725(309-350)	-	2	GH73_e387|CBM50_e725	chitin
+contig_1_2760	3.2.1.63:5	GH95(102-767)	GH95_e0(99-764)	GH95	3	GH95_e0	beta-fucosides
+contig_1_2782	-	-	-	GH16_1+GH16_1	1	-	-
+contig_1_2785	3.2.1.-:3	GH88(78-399)	GH88_e11(79-399)	GH88	3	GH88_e11	host glycan
+contig_1_2791	-	GH109(56-454)	GH109_e5(56-453)	GH109	3	GH109_e5	host glycan
+contig_1_2792	-	PL8_2(601-873)	PL8_e18(601-873)	PL8_2	3	PL8_2	-
+contig_1_2797	3.2.1.52:18	GH20(158-532)	GH20_e12(157-532)	GH20	3	GH20_e12	host glycan
+contig_1_2800	-	PL29(68-369)	PL29_e9(68-371)	PL29	3	PL29_e9	host glycan
+contig_1_2834	-	-	CBM32_e147(451-567)	-	1	-	host glycan
+contig_1_2849	-	-	-	CE4	1	-	-
+contig_1_288	-	-	-	GH97	1	-	-
+contig_1_2880	-	GT90(177-296)	-	-	1	-	-
+contig_1_2884	-	-	-	GT2	1	-	-
+contig_1_2888	-	-	-	GT2	1	-	-
+contig_1_2890	-	GT4(180-325)	GT4_e5806(186-326)	GT4	3	GT4_e5806	-
+contig_1_2891	-	GT2(6-102)	GT2(8-240)	GT2	3	GT2	-
+contig_1_2893	-	GT4(205-349)	GT4_e5899(205-347)	GT4	3	GT4_e5899	-
+contig_1_2894	-	GT4(186-328)	GT4_e521(188-327)	GT4	3	GT4_e521	-
+contig_1_2895	-	-	GT4_e5832(174-289)	-	1	-	-
+contig_1_2899	-	-	-	GT9	1	-	-
+contig_1_2900	-|-	PL6(39-423)+PL6_1(520-763)	PL6_e31(41-423)+PL6_e2(520-765)	PL6_1	3	PL6_e31|PL6_1	-
+contig_1_2901	-	PL17_2(403-538)	PL17_e2(403-538)	PL17_2	3	PL17_2	-
+contig_1_2902	-	AA18(12-112)	AA18_e1(13-112)	-	2	AA18_e1	-
+contig_1_2909	-	PL7(53-304)	PL7_e43(53-304)	PL7	3	PL7_e43	-
+contig_1_2968	-	CE1(70-238)	-	-	1	-	-
+contig_1_2980	-	-	-	GT4	1	-	-
+contig_1_2981	-	-	-	GT2	1	-	-
+contig_1_2986	-	GT4(198-346)	GT4_e8671(201-320)	-	2	GT4_e8671	-
+contig_1_2991	-	GT4(221-358)	GT4_e2179(213-349)	GT4	3	GT4_e2179	-
+contig_1_2992	-	GT4(201-343)	GT4_e308(203-344)	GT4	3	GT4_e308	-
+contig_1_2997	-	GT4(198-348)	GT4_e3456(197-347)	GT4	3	GT4_e3456	-
+contig_1_2998	-	-	-	GT4	1	-	-
+contig_1_3019	-	-	-	GH35	1	-	-
+contig_1_3047	-	-	-	PL0	1	-	-
+contig_1_3048	-	GH50(130-468)	GH50_e25(129-468)	GH50	3	GH50_e25	-
+contig_1_3050	-	CE20(31-251)	CE20_e8(33-250)	CE0	3	CE20_e8	xyloglucan
+contig_1_3055	-	-	GT4_e1406(207-358)	GT0	2	GT4_e1406	-
+contig_1_3056	-	GH5_42(216-470)	GH5_e241(216-470)	GH5_42	3	GH5_42	-
+contig_1_3059	-	GT2(5-132)	GT2(5-170)	GT2	3	GT2	-
+contig_1_3072	-	-	-	GH13_31	1	-	-
+contig_1_308	-	GH23(89-220)	GH23_e1273(88-223)	GH23	3	GH23_e1273	-
+contig_1_3080	-	GT2(77-302)	GT2(75-489)	GT2	3	GT2	-
+contig_1_3081	-	GT2(5-137)	GT2(5-162)	GT2	3	GT2	-
+contig_1_3099	3.2.1.49:3	GH109(35-443)	GH109_e1(37-442)	GH109	3	GH109_e1	host glycan
+contig_1_31	-	-	-	GT50	1	-	-
+contig_1_3102	-	-	-	GH16_3	1	-	-
+contig_1_3103	-	CBM32(404-519)	CBM32_e147(410-525)	-	2	CBM32_e147	host glycan
+contig_1_3107	3.2.1.23:35	GH2_10(62-943)	GH2_e1(60-943)	GH2_10	3	GH2_10	beta-galactan
+contig_1_3108	-	-	-	CBM32	1	-	-
+contig_1_318	-	GT2(6-124)	GT2(4-290)	GT2	3	GT2	-
+contig_1_324	-	-	-	CBM1+GH3	1	-	-
+contig_1_333	-	GH1(9-446)	GH1_e79(10-444)	GH1	3	GH1_e79	-
+contig_1_352	-	CE11(4-228)	CE11_e42(4-297)	CE11	3	CE11_e42	exo-polysaccharide
+contig_1_362	3.2.1.23:2	GH2_1(27-605)	GH2_e137(28-605)	GH2_1	3	GH2_1	beta-galactan
+contig_1_365	-	-	-	GT0	1	-	-
+contig_1_371	-	CE1(7-196)	-	-	1	-	-
+contig_1_39	-	GT83(7-445)	GT83_e70(11-481)	GT83	3	GT83_e70	-
+contig_1_392	-	-	-	CBM50	1	-	-
+contig_1_40	-	GT83(4-515)	GT83_e143(11-488)	-	2	GT83_e143	-
+contig_1_41	-	GT2(8-160)	GT2(8-146)	GT2	3	GT2	-
+contig_1_428	3.2.1.51:2	GH29(18-364)	GH29_e29(42-364)	GH29	3	GH29_e29	host glycan
+contig_1_429	-	-	-	GH29	1	-	-
+contig_1_434	-	GH29(10-382)	GH29_e45(35-382)	GH29	3	GH29_e45	host glycan
+contig_1_437	-	GH29(12-385)	GH29_e22(21-385)	GH29	3	GH29_e22	host glycan
+contig_1_438	-	-	-	GH29	1	-	-
+contig_1_439	-	GH117(179-264)	GH117_e9(177-333)	GH117	3	GH117_e9	agarose
+contig_1_440	-	GH95(54-775)	GH95_e55(56-775)	GH95	3	GH95_e55	-
+contig_1_441	-	GH29(18-370)	GH29_e174(43-369)	GH29	3	GH29_e174	host glycan
+contig_1_442	-	-	-	CBM35+CBM47	1	-	-
+contig_1_443	-|-	GH172(284-525)	GH172_e5(104-194)+GH172_e5(284-525)	GH172	3	GH172_e5|GH172_e5	-
+contig_1_446	-	GH141(24-542)	GH141_e24(24-541)	CBM32	3	GH141_e24	-
+contig_1_447	-	-	-	CBM6+CBM99	1	-	-
+contig_1_448	3.2.1.37:2;3.2.1.55:2	GH43_2(24-294)	GH43_e398(24-294)	GH43_2	3	GH43_2	xylan
+contig_1_449	-	GH36(23-704)	GH36_e160(24-704)	GH36	3	GH36_e160	-
+contig_1_451	-	GH29(160-507)	GH29_e45(162-507)	GH29	3	GH29_e45	host glycan
+contig_1_452	-	GH29(24-384)	GH29_e176(42-383)	GH29	3	GH29_e176	host glycan
+contig_1_453	-	GH141(29-568)	GH141_e20(29-568)	GH141	3	GH141_e20	-
+contig_1_454	3.2.1.212:4	GH107(246-575)	GH107_e2(246-575)	GH107	3	GH107_e2	fucoidan
+contig_1_455	-	-	-	CBM35+CBM47	1	-	-
+contig_1_456	-	GH29(21-344)	GH29_e90(21-336)	GH29	3	GH29_e90	host glycan
+contig_1_473	-	GH109(5-149)	GH188_e1(39-147)	-	2	GH188_e1	glycolipid
+contig_1_480	-	GH97(17-673)	GH97_e64(23-673)	GH97	3	GH97_e64	-
+contig_1_484	-	GH115(24-725)	GH115_e10(26-964)	GH115	3	GH115_e10	-
+contig_1_499	-	GT4(199-342)	GT4_e2566(199-342)	GT4	3	GT4_e2566	-
+contig_1_5	-	-	-	GT2	1	-	-
+contig_1_504	-	GH109(6-157)	GH179_e0(27-198)	-	2	GH179_e0	chitin
+contig_1_526	-	-	-	GH1	1	-	-
+contig_1_537	-	-	-	GH117	1	-	-
+contig_1_538	3.2.1.159:2	GH117(106-260)+GH117(231-322)	GH117_e12(105-324)	GH117	3	GH117_e12	agarose
+contig_1_539	3.2.1.178:2	GH16_11(46-285)	GH16_e154(46-285)	GH16_11	3	GH16_11	porphyran
+contig_1_541	-	GH28(45-376)	GH28_e115(45-374)	GH28	3	GH28_e115	pectin
+contig_1_543	-	GH29(17-390)	GH29_e132(16-390)	GH29	3	GH29_e132	host glycan
+contig_1_544	-	-	-	GH29	1	-	-
+contig_1_545	-	GH29(24-411)	GH29_e155(28-411)	GH29	3	GH29_e155	host glycan
+contig_1_547	-	-	-	GH29	1	-	-
+contig_1_550	3.2.1.37:92;3.2.1.55:39	GH3(58-289)	GH3_e0(58-289)	GH3	3	GH3_e0	arabinan;xylan
+contig_1_551	-	GH16_11(55-295)	GH16_e238(55-295)	GH16_11	3	GH16_11	-
+contig_1_552	-	-	-	GH29	1	-	-
+contig_1_555	-	GH2_11(41-808)	GH2_e106(41-808)	GH2_11	3	GH2_11	-
+contig_1_556	-	GH2_11(30-802)	GH2_e106(30-802)	GH2_11	3	GH2_11	-
+contig_1_557	-	-	-	GH16_11	1	-	-
+contig_1_558	3.2.1.159:2	GH117(100-257)+GH117(222-319)	GH117_e12(99-325)	GH117	3	GH117_e12	agarose
+contig_1_559	3.2.1.23:35	GH2_10(63-950)	GH2_e1(61-950)	GH2_10	3	GH2_10	beta-galactan
+contig_1_560	-	GH29(22-392)	GH29_e167(27-392)	GH29	3	GH29_e167	host glycan
+contig_1_561	-	GH141(24-379)	GH141_e19(24-405)	CBM99	3	GH141_e19	-
+contig_1_564	-	-	-	GH16_3	1	-	-
+contig_1_565	3.2.1.23:2	GH2_1(34-614)	GH2_e137(34-614)	GH2_1	3	GH2_1	beta-galactan
+contig_1_572	3.2.1.23:35	GH2_10(56-954)	GH2_e1(54-954)	GH2_10	3	GH2_10	beta-galactan
+contig_1_573	-	GH29(28-406)	GH29_e0(35-406)	GH29	3	GH29_e0	host glycan
+contig_1_578	-	GT2(59-330)	GT2(59-330)	GT2	3	GT2	-
+contig_1_579	-	-	-	GT2	1	-	-
+contig_1_588	-	GH97(14-626)	GH97_e53(14-626)	GH97	3	GH97_e53	-
+contig_1_590	-	-	-	CBM35+CBM47	1	-	-
+contig_1_591	-	-	GH117_e6(178-328)	GH117	2	GH117_e6	agarose
+contig_1_592	-	-	GH36_e127(209-373)	GH36	2	GH36_e127	-
+contig_1_593	3.2.1.63:3	GH95(44-806)	GH95_e26(45-805)	GH95	3	GH95_e26	beta-fucosides
+contig_1_594	-	GH116(412-775)	GH116_e4(411-775)	GH116	3	GH116_e4	-
+contig_1_595	-|-	GH117(73-196)	GH117_e4(73-227)+GH117_e10(198-287)	GH117	3	GH117_e4|GH117_e10	agarose
+contig_1_596	-	GH116(470-763)	GH116_e4(401-763)	GH116	3	GH116_e4	-
+contig_1_598	-	-	-	CBM38	1	-	-
+contig_1_599	-	CE20(107-398)	CE20_e7(107-398)	CE20	3	CE20_e7	xyloglucan
+contig_1_600	-	-	-	GH117	1	-	-
+contig_1_601	-	-	-	CBM38	1	-	-
+contig_1_602	-	-	-	GH117	1	-	-
+contig_1_603	-	GH29(20-412)	GH29_e86(28-412)	GH29	3	GH29_e86	host glycan
+contig_1_605	-	-	-	GH29	1	-	-
+contig_1_627	-	CBM32(408-516)	CBM32_e373(413-531)	-	2	CBM32_e373	host glycan
+contig_1_637	-	CE4(25-143)	CE4_e341(25-142)	-	2	CE4_e341	-
+contig_1_638	-	GT117(28-258)	GT117_e5(32-244)	-	2	GT117_e5	-
+contig_1_64	-	GT4(211-368)	GT4_e350(211-368)	GT4	3	GT4_e350	-
+contig_1_641	-	-	-	GT2	1	-	-
+contig_1_648	-	GH29(13-395)	GH29_e7(19-395)	GH29	3	GH29_e7	host glycan
+contig_1_649	-	GH92(242-751)	GH92_e84(242-751)	GH92	3	GH92_e84	host glycan
+contig_1_65	-	-	GT4_e2572(239-382)	GT4	2	GT4_e2572	-
+contig_1_650	-	GH29(16-333)	GH29_e129(24-333)	GH29	3	GH29_e129	host glycan
+contig_1_651	-	GH20(159-512)	GH20_e135(158-512)	GH20	3	GH20_e135	-
+contig_1_653	-	GH18(31-363)	GH18_e238(31-363)	GH18	3	GH18_e238	-
+contig_1_654	-	CBM9(42-218)	-	CBM0	2	CBM9	-
+contig_1_679	-	GT2(4-122)	GT2(4-226)	GT2	3	GT2	-
+contig_1_686	-	GH29(40-373)	GH29_e178(55-373)	GH29	3	GH29_e178	host glycan
+contig_1_707	-	-	-	GH0	1	-	-
+contig_1_717	-	-	GT1_e105(14-291)	GT1	2	GT1_e105	-
+contig_1_725	-	GH179(25-217)	GH179_e0(25-218)	-	2	GH179_e0	chitin
+contig_1_736	-	GH117(193-352)	GH117_e2(114-350)	GH117	3	GH117_e2	agarose
+contig_1_749	-	GH3(107-332)	GH3_e104(108-332)	GH3	3	GH3_e104	-
+contig_1_750	-	-	-	GH39	1	-	-
+contig_1_751	-	-	-	GH39	1	-	-
+contig_1_797	-	-	-	GH43_28	1	-	-
+contig_1_844	-	GH13_18(42-189)+GH13_18(243-468)	GH13_e104(42-468)	GH13_18	3	GH13_18	-
+contig_1_87	-	GH117(92-185)+GH117(189-340)	GH117_e2(99-338)	GH117	3	GH117_e2	agarose
+contig_1_879	-	-	-	CE12	1	-	-
+contig_1_88	-	-	-	GH32	1	-	-
+contig_1_882	-	-	-	GH43_5+GH43_5	1	-	-
+contig_1_89	-	CE1(29-261)	CE1_e43(32-169)	-	2	CE1_e43	-
+contig_1_903	-	GH3(63-273)	GH3_e381(64-273)	GH3	3	GH3_e381	-
+contig_1_907	-	-	-	CE12	1	-	-
+contig_1_909	3.2.1.23:35	GH2_10(51-917)	GH2_e1(50-917)	GH2_10	3	GH2_10	beta-galactan
+contig_1_91	-	PL40(2-926)	PL40_e1(2-918)	PL40	3	PL40_e1	-
+contig_1_92	-	GH97(21-659)	GH97_e24(24-659)	GH97	3	GH97_e24	-
+contig_1_93	-	GH30_2(59-464)	GH30_e72(59-463)	GH30_2	3	GH30_2	-
+contig_1_94	-	-	-	GH3	1	-	-
+contig_1_95	-	PL43(50-487)	PL43_e0(52-487)	PL43	3	PL43_e0	fucoidan
+contig_1_954	-	GH109(3-190)	-	-	1	-	-
+contig_1_955	-	-	-	CBM32	1	-	-
+contig_1_96	-	PL40(2-869)	PL40_e0(5-868)	PL40	3	PL40_e0	-
+contig_1_97	-	PL40(1-914)	PL40_e6(5-874)	PL40	3	PL40_e6	-
+contig_1_98	-	GH141(27-544)	GH141_e24(28-545)	CBM32	3	GH141_e24	-
+contig_1_986	-	-	-	CBM0	1	-	-
+contig_1_989	-|-	GH43_28(61-327)+CBM32(401-504)	GH43_e302(61-327)+CBM32_e357(397-504)	GH43_28	3	GH43_28|CBM32_e357	host glycan
+contig_1_99	-	-	-	CBM38	1	-	-
+contig_1_990	-	GH3(100-321)	GH3_e300(100-320)	GH3	3	GH3_e300	-
+contig_1_991	-	CE1(37-242)	-	-	1	-	-
+contig_1_992	-	GH144(50-464)	GH144_e1(51-464)	GH144	3	GH144_e1	beta-glucan
+contig_1_993	-	-	-	GH146	1	-	-

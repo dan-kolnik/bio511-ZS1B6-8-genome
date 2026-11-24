@@ -1,0 +1,12 @@
+Bootstrap: docker
+From: mambaorg/micromamba:latest
+
+%post
+    export PATH=/opt/conda/bin:$PATH
+    micromamba install -y -n base -c conda-forge -c bioconda checkm2
+    micromamba install -y -n base -c conda-forge patchelf
+    find /opt/conda -name '*.so*' -type f -exec patchelf --clear-execstack {} \; 2>/dev/null || true
+    micromamba clean --all --yes
+
+%environment
+    export PATH=/opt/conda/bin:$PATH

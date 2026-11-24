@@ -1,0 +1,11 @@
+# Large or non-shareable files: not part of the repository
+*.sif
+*.fastq
+*.fastq.gz
+reads/
+databases/
+refs/ncbi_dataset/
+refs/*.zip
+*.bam
+*.bai
+__pycache__/

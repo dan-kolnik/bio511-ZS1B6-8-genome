@@ -1,0 +1,23 @@
+This job can be monitored from: https://job.c3se.chalmers.se/vera/10551258
+=== skani ANI ===
+[00:00:00.000] (14e77b3a9880) INFO   /opt/conda/bin/skani dist -q assembly/medaka/consensus.fasta -r refs/ncbi_dataset/data/GCA_001697185.1/GCA_001697185.1_ASM169718v1_genomic.fna refs/ncbi_dataset/data/GCA_011762155.1/GCA_011762155.1_ASM1176215v1_genomic.fna refs/ncbi_dataset/data/GCA_ ...
+[00:00:00.428] (14e77b3a9880) INFO   Learned ANI mode detected. ANI may be adjusted according to a regression model trained on MAGs.
+[00:00:00.428] (14e77b3a9880) INFO   Generating sketch time: 0.42886695
+[00:00:00.433] (14e77b3a9880) INFO   ANI calculation time: 0.004853474
+=== CheckM2 ===
+[10/28/2026 10:25:50 AM] INFO: Running CheckM2 version 1.1.0
+[10/28/2026 10:25:50 AM] INFO: Custom database path provided for predict run. Checking database at databases/CheckM2_database/uniref100.KO.1.dmnd...
+[10/28/2026 10:26:07 AM] INFO: Running quality prediction workflow with 8 threads.
+/opt/conda/lib/python3.12/site-packages/checkm2/../sklearn/base.py:525: InconsistentVersionWarning: Trying to unpickle estimator MinMaxScaler from version 1.6.1 when using version 1.9.1. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/model_persistence.html#security-maintainability-limitations
+  warnings.warn(
+[10/28/2026 10:26:08 AM] INFO: Calling genes in 1 bins with 8 threads:
+    Finished processing 1 of 1 (100.00%) bins.
+[10/28/2026 10:26:19 AM] INFO: Calculating metadata for 1 bins with 8 threads:
+    Finished processing 1 of 1 (100.00%) bin metadata.
+[10/28/2026 10:26:19 AM] INFO: Annotating input genomes with DIAMOND using 8 threads
+[10/28/2026 10:26:35 AM] INFO: Processing DIAMOND output
+[10/28/2026 10:26:35 AM] INFO: Predicting completeness and contamination using ML models.
+[10/28/2026 10:26:38 AM] INFO: Parsing all results and constructing final output table.
+[10/28/2026 10:26:38 AM] INFO: CheckM2 finished successfully.
+=== All done ===

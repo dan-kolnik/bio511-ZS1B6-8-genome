@@ -1,0 +1,2 @@
+Ref_file	Query_file	ANI	Align_fraction_ref	Align_fraction_query	Ref_name	Query_name	ANI_5_percentile	ANI_95_percentile
+refs/ncbi_dataset/data/GCA_054111205.1/GCA_054111205.1_ASM5411120v1_genomic.fna	assembly/medaka/consensus.fasta	82.96	15.40	14.38	CM134196.1 Wenyingzhuangia sp. IMCC45467 chromosome, complete sequence, whole genome shotgun sequence	contig_1	82.22	83.57

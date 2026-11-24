@@ -1,0 +1,27 @@
+#cgcid	PULID	dbCAN-PUL substrate	bitscore	signature pairs	dbCAN-sub substrate	dbCAN-sub substrate score
+contig_1|CGC31	PUL0703	agarose	1919.0	Peptidase-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;TC-TC	agarose	4.0
+contig_1|CGC30	PUL0225	agarose	2840.0	CAZyme-CAZyme;CAZyme-CAZyme;Sulfatase-SULFATLAS;TC-TC;TC-null		
+contig_1|CGC20	PUL0756	N-glycan	1651.0	CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme	hostglycan	3.0
+contig_1|CGC56	PUL0106	host glycan	892.0	TC-TC;CAZyme-CAZyme	hostglycan	3.0
+contig_1|CGC10	PUL0727	fucoidan	14738.0	CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-SULFATLAS;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS;CAZyme-CAZyme;null-null;CAZyme-CAZyme;Sulfatase-SULFATLAS;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;Sulfatase-SULFATLAS;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme	hostglycan	6.0
+contig_1|CGC25	PUL0654	alginate	5348.0	CAZyme-CAZyme;Peptidase-PEPTIDASE;CAZyme-CAZyme;CAZyme-CAZyme;null-null;TC-null;TC-TC;TC-TC;STP-TF		
+contig_1|CGC9	PUL0727	fucoidan	3643.0	CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS		
+contig_1|CGC34	PUL0234	beta-glucan	2352.0	CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;TC-TC;TC-TC		
+contig_1|CGC41	PUL0738	arabinogalactan	1725.8999999999999	CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;null-TC;null-null;TC-TC;TC-TC;CAZyme-null;CAZyme-CAZyme	hostglycan	5.0
+contig_1|CGC42	PUL0756	N-glycan	2282.0	CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme	hostglycan	8.0
+contig_1|CGC15	PUL0607	agarose	2473.4	Sulfatase-SULFATLAS;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme	hostglycan	2.0
+contig_1|CGC35	PUL0555	host glycan	697.0	CAZyme-CAZyme;CAZyme-CAZyme	hostglycan	2.0
+contig_1|CGC16	PUL0607	agarose	2726.0	CAZyme-CAZyme;Sulfatase-SULFATLAS;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme		
+contig_1|CGC46	PUL0344	chitin	2802.0	CAZyme-CAZyme;TC-TC;TC-TC;TC-TC;TC-TC;TC-null		
+contig_1|CGC19	PUL0334	beta-glucan	757.0	CAZyme-CAZyme;CAZyme-TC		
+contig_1|CGC29	PUL0479	pectin	1804.0	CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme		
+contig_1|CGC4	PUL0727	fucoidan	2920.0	CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS;CAZyme-CAZyme;Sulfatase-SULFATLAS;CAZyme-CAZyme;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS	fucoidan	5.0
+contig_1|CGC57	PUL0654	alginate	5822.0	CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-null;TC-TC;TC-TC;TC-TC;STP-TF;TC-TC;TC-TC		
+contig_1|CGC61					hostglycan	2.0
+contig_1|CGC3	PUL0727	fucoidan	2486.0	TC-TC;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS;CAZyme-CAZyme;CAZyme-CAZyme;Sulfatase-SULFATLAS;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme	fucoidan	2.0
+contig_1|CGC17	PUL0607	agarose	3079.0	CAZyme-CAZyme;CAZyme-CAZyme;TC-TC		
+contig_1|CGC28	PUL0782	fucoidan	276.0	CAZyme-CAZyme;Sulfatase-SULFATLAS		
+contig_1|CGC38					fucoidan	3.0
+contig_1|CGC24	PUL0734	carrageenan	1431.0	CAZyme-CAZyme;TC-TC		
+contig_1|CGC51	PUL0377	glycosaminoglycan	1844.4	TC-TC;TC-TC;TC-TC;CAZyme-CAZyme;STP-TC	alginate	3.0
+contig_1|CGC18	PUL0776	fucoidan	3475.0	CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;CAZyme-CAZyme;Sulfatase-SULFATLAS;Sulfatase-SULFATLAS;CAZyme-CAZyme	agarose	3.0

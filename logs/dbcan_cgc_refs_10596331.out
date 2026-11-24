@@ -1,0 +1,12 @@
+This job can be monitored from: https://job.c3se.chalmers.se/vera/10596331
+=== Part A: CGCs + substrates for ZS1B6-8 ===
+step 1/4  CAZyme annotation...
+step 2/4  GFF processing...
+Generating Prodigal GFF: 0it [00:00, ?it/s]Generating Prodigal GFF: 1it [00:00,  5.91it/s]Generating Prodigal GFF: 1it [00:00,  5.90it/s]
+step 3/4  CGC identification...
+step 4/4  Substrate prediction...
+CGC substrate analysis completed.
+=== Part B: W_marina_type (GCA_014636515.1) ===
+=== Part B: W_fucanilytica (GCA_001697185.1) ===
+=== Part B: W_sp_IMCC45467 (GCA_054111205.1) ===
+=== All done ===

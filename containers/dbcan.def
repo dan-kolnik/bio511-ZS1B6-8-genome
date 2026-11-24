@@ -1,0 +1,10 @@
+Bootstrap: docker
+From: mambaorg/micromamba:latest
+
+%post
+    export PATH=/opt/conda/bin:$PATH
+    micromamba install -y -n base -c conda-forge -c bioconda python=3.11 "dbcan>=5" requests
+    micromamba clean --all --yes
+
+%environment
+    export PATH=/opt/conda/bin:$PATH

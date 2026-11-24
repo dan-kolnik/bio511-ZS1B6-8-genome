@@ -1,0 +1,13 @@
+genome,enzyme,EC,typical_families,proteins_in_typical_families,proteins_with_predicted_EC,EC_protein_ids
+ZS1B6-8,alpha-glucosidase,3.2.1.20,GH13/GH31/GH97,9,1,contig_1_1314
+ZS1B6-8,beta-galactosidase,3.2.1.23,GH2/GH35/GH42,15,9,contig_1_1253;contig_1_1265;contig_1_1278;contig_1_3107;contig_1_362;contig_1_559;contig_1_565;contig_1_572;contig_1_909
+ZS1B6-8,N-acetyl-beta-glucosaminidase,3.2.1.52,GH3/GH20/GH84,17,5,contig_1_1995;contig_1_2024;contig_1_2025;contig_1_2375;contig_1_2797
+W_marina_type,alpha-glucosidase,3.2.1.20,GH13/GH31/GH97,16,1,BMEN01000001.1_608
+W_marina_type,beta-galactosidase,3.2.1.23,GH2/GH35/GH42,9,3,BMEN01000003.1_474;BMEN01000004.1_154;BMEN01000005.1_193
+W_marina_type,N-acetyl-beta-glucosaminidase,3.2.1.52,GH3/GH20/GH84,9,1,BMEN01000001.1_296
+W_fucanilytica,alpha-glucosidase,3.2.1.20,GH13/GH31/GH97,7,0,
+W_fucanilytica,beta-galactosidase,3.2.1.23,GH2/GH35/GH42,13,4,CP014224.1_1580;CP014224.1_1606;CP014224.1_2643;CP014224.1_310
+W_fucanilytica,N-acetyl-beta-glucosaminidase,3.2.1.52,GH3/GH20/GH84,9,0,
+W_sp_IMCC45467,alpha-glucosidase,3.2.1.20,GH13/GH31/GH97,8,0,
+W_sp_IMCC45467,beta-galactosidase,3.2.1.23,GH2/GH35/GH42,16,4,CM134196.1_2381;CM134196.1_2616;CM134196.1_2776;CM134196.1_2859
+W_sp_IMCC45467,N-acetyl-beta-glucosaminidase,3.2.1.52,GH3/GH20/GH84,7,1,CM134196.1_2132

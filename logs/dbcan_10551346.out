@@ -1,0 +1,14 @@
+This job can be monitored from: https://job.c3se.chalmers.se/vera/10551346
+=== Part 1: CAZyme annotation ===
+=== Part 2: CGCs and substrate prediction ===
+step 1/4  CAZyme annotation...
+step 2/4  GFF processing...
+2026-10-28 11:40:24,604 - dbcan.IO.gff - ERROR - Input GFF file not found: gff
+step 3/4  CGC identification...
+2026-10-28 11:40:24,605 - dbcan.annotation.CGCFinder - ERROR - GFF file not found: annotation/dbcan_substrate/cgc.gff
+step 4/4  Substrate prediction...
+2026-10-28 11:40:24,608 - dbcan.annotation.cgc_substrate_prediction - ERROR - CGC standard out not found: annotation/dbcan_substrate/cgc_standard_out.tsv
+2026-10-28 11:40:24,608 - dbcan.annotation.cgc_substrate_prediction - ERROR - Required input missing. Wrote empty substrate prediction file.
+2026-10-28 11:40:25,561 - dbcan.plot.syntenic_plot - WARNING - [skip] BLAST result not found or empty: /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/annotation/dbcan_substrate/PUL_blast.out
+CGC substrate analysis completed.
+=== All done ===

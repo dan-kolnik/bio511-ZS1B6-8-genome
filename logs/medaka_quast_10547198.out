@@ -1,0 +1,130 @@
+This job can be monitored from: https://job.c3se.chalmers.se/vera/10547198
+Attempting to automatically select model version.
+SUCCESS: Automatic model selection chose model: '/cephyr/users/kolnik/Vera/.medaka/data/r1041_e82_400bps_bacterial_methylation_model_pt.tar.gz'
+Checking program versions
+This is medaka 2.2.2
+Program    Version    Required   Pass     
+bcftools   1.24       1.11       True     
+bgzip      1.24       1.11       True     
+minimap2   2.31       2.11       True     
+samtools   1.24       1.11       True     
+tabix      1.24       1.11       True     
+[20:42:19 - MdlStrTGZ] Successfully removed temporary files from /local/tmp.10547198/tmpkuq_1oam.
+[20:42:21 - MdlStrTGZ] Successfully removed temporary files from /local/tmp.10547198/tmpxa0imt69.
+[20:42:22 - MdlStrTGZ] Successfully removed temporary files from /local/tmp.10547198/tmpilmb0twg.
+[20:42:22 - MdlStrTGZ] Successfully removed temporary files from /local/tmp.10547198/tmpfzn_2d7g.
+Aligning basecalls to draft
+Creating fai index file /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/assembly/flye/assembly.fasta.fai
+Creating mmi index file /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/assembly/flye/assembly.fasta.map-ont.mmi
+[M::mm_idx_gen::0.071*1.01] collected minimizers
+[M::mm_idx_gen::0.090*1.40] sorted minimizers
+[M::main::0.111*1.32] loaded/built the index for 1 target sequence(s)
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::0.116*1.31] distinct minimizers: 684752 (96.16% are singletons); average occurrences: 1.048; average spacing: 5.340; total length: 3831768
+[M::main] Version: 2.31-r1302
+[M::main] CMD: minimap2 -I 16G -x map-ont -d /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/assembly/flye/assembly.fasta.map-ont.mmi /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/assembly/flye/assembly.fasta
+[M::main] Real time: 0.119 sec; CPU: 0.155 sec; Peak RSS: 0.037 GB
+[M::main::0.027*1.03] loaded/built the index for 1 target sequence(s)
+[M::mm_mapopt_update::0.033*1.02] mid_occ = 10
+[M::mm_idx_stat] kmer size: 15; skip: 10; is_hpc: 0; #seq: 1
+[M::mm_idx_stat::0.037*1.02] distinct minimizers: 684752 (96.16% are singletons); average occurrences: 1.048; average spacing: 5.340; total length: 3831768
+[M::worker_pipeline::20.884*5.04] mapped 250828 sequences
+[M::worker_pipeline::21.117*5.00] mapped 22555 sequences
+[M::main] Version: 2.31-r1302
+[M::main] CMD: minimap2 -x map-ont --secondary=no -L --MD -A 2 -B 4 -O 4,24 -E 2,1 -t 8 -a /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/assembly/flye/assembly.fasta.map-ont.mmi /cephyr/NOBACKUP/groups/n2bin_gu/BIO511-2026/data/ONT_BIO511/ZS1B6-8_ONT.fastq.gz
+[M::main] Real time: 21.127 sec; CPU: 105.550 sec; Peak RSS: 1.625 GB
+[bam_sort_core] merging from 0 files and 8 in-memory blocks...
+Running medaka inference
+[20:42:53 - Predict] Reducing threads, anymore is a waste.
+[20:42:53 - Predict] It looks like you attempted to set a high number of threads. We have scaled this down to an optimal number. If you wish to improve performance please see https://nanoporetech.github.io/medaka/installation.html#improving-parallelism.
+[20:42:53 - Predict] Setting pytorch intra/inter-op threads to 2/1.
+[20:42:53 - Predict] PyTorch reports intra/inter-op threads as 2/1.
+[20:42:53 - Predict] Processing region(s): contig_1:0-3831768
+[20:42:53 - Predict] Using model: /cephyr/users/kolnik/Vera/.medaka/data/r1041_e82_400bps_bacterial_methylation_model_pt.tar.gz.
+[20:42:53 - Predict] Using minimum mapQ threshold of 1 for read filtering.
+[20:42:53 - MdlStrTGZ] Model GRUModel(
+  (gru): GRU(10, 128, num_layers=2, batch_first=True, bidirectional=True)
+  (linear): Linear(in_features=256, out_features=5, bias=True)
+)
+[20:42:53 - MdlStrTGZ] loading weights from /local/tmp.10547198/tmpqelf22k1/model/weights.pt
+[20:42:53 - MdlStrTGZ] Successfully removed temporary files from /local/tmp.10547198/tmpqelf22k1.
+[20:42:53 - Predict] Model device: cpu
+[20:42:53 - Predict] Running prediction at full precision
+[20:42:53 - Predict] Processing 4 long region(s) with batching.
+[20:42:53 - PWorker] Running inference for 3.8M draft bases.
+[20:43:50 - PWorker] Processed 6 batches
+[20:43:50 - PWorker] All done, 0 remainder regions.
+[20:43:50 - Predict] Finished processing all regions.
+[20:43:52 - DataIndx] Loaded 1/1 (100.00%) sample files.
+[20:43:52 - DataIndx] Loaded 1/1 (100.00%) sample files.
+[20:43:52 - DataIndx] Loaded 1/1 (100.00%) sample files.
+[20:43:52 - DataIndx] Loaded 1/1 (100.00%) sample files.
+[20:43:52 - DataIndx] Loaded 1/1 (100.00%) sample files.
+Polished assembly written to assembly/medaka/consensus.fasta, have a nice day.
+WARNING: Python locale settings can't be changed
+/usr/local/lib/python3.8/dist-packages/quast-5.3.0-py3.8.egg/EGG-INFO/scripts/quast.py assembly/flye/assembly.fasta assembly/medaka/consensus.fasta -l Flye_draft,Medaka_polished -o qc/quast -t 8
+
+Version: 5.3.0
+
+System information:
+  OS: Linux-5.14.0-687.41.1.el9_8.x86_64-x86_64-with-glibc2.29 (linux_64)
+  Python version: 3.8.10
+  CPUs number: 64
+
+Started: 2026-10-26 20:43:55
+
+Logging to /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/qc/quast/quast.log
+
+CWD: /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project
+Main parameters: 
+  MODE: default, threads: 8, min contig length: 500, min alignment length: 65, min alignment IDY: 95.0, \
+  ambiguity: one, min local misassembly length: 200, min extensive misassembly length: 1000
+
+Contigs:
+  Pre-processing...
+  1  assembly/flye/assembly.fasta ==> Flye_draft
+  2  assembly/medaka/consensus.fasta ==> Medaka_polished
+
+2026-10-26 20:43:55
+Running Basic statistics processor...
+  Contig files: 
+    1  Flye_draft
+    2  Medaka_polished
+  Calculating N50 and L50...
+    1  Flye_draft, N50 = 3831768, L50 = 1, auN = 3831768.0, Total length = 3831768, GC % = 31.18, # N's per 100 kbp =  0.00
+    2  Medaka_polished, N50 = 3831794, L50 = 1, auN = 3831794.0, Total length = 3831794, GC % = 31.18, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/qc/quast/basic_stats/Nx_plot.pdf
+  Drawing cumulative plot...
+    saved to /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/qc/quast/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/qc/quast/basic_stats/GC_content_plot.pdf
+  Drawing Flye_draft GC content plot...
+    saved to /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/qc/quast/basic_stats/Flye_draft_GC_content_plot.pdf
+  Drawing Medaka_polished GC content plot...
+    saved to /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/qc/quast/basic_stats/Medaka_polished_GC_content_plot.pdf
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding or --glimmer option to enable it.
+
+2026-10-26 20:43:56
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating PDF with all tables and plots...
+  2 of 2: Creating Icarus viewers...
+Done
+
+2026-10-26 20:43:56
+RESULTS:
+  Text versions of total report are saved to /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/qc/quast/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/qc/quast/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) is saved to /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/qc/quast/report.html
+  PDF version (tables and plots) is saved to /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/qc/quast/report.pdf
+  Icarus (contig browser) is saved to /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/qc/quast/icarus.html
+  Log is saved to /cephyr/NOBACKUP/groups/n2bin_gu/students/dan/bio511-genom-project/qc/quast/quast.log
+
+Finished: 2026-10-26 20:43:56
+Elapsed time: 0:00:01.565785
+NOTICEs: 1; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

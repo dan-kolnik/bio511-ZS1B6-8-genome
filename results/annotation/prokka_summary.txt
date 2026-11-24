@@ -1,0 +1,6 @@
+organism: Wenyingzhuangia species strain 
+contigs: 1
+bases: 3831794
+CDS: 3122
+tRNA: 53
+tmRNA: 1
